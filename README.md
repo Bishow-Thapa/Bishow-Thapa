@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Java Projects
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter] (https://twitter.com/BishowThapa12) [LinkedIn] - (https://www.linkedin.com/in/bishowthapa/)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm an Introvert 
+- ⚡ Fun fact: ... I'm an Introvert by nature but open to communicate 
