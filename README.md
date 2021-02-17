@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm an Introvert by nature but open to communicate 
+
+> *Quotes*: **1**
+>
+>> Life is in the perception of the eyes of the beholder.
