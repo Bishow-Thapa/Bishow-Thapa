@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 > *Quotes*: **1**
 >
 >> Life is in the perception of the eyes of the beholder.
+
+> *Quotes*: **2**
+> 
+>> The journey of a thousand miles begins with a single step - Lao Tzu
