@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 > *Quotes*: **2**
 > 
->> The journey of a thousand miles begins with a single step - Lao Tzu
+>> The journey of a thousand miles begins with a single step. - **Lao Tzu**
+
+> *Quotes*: **3**
+> 
+>> Everything depends on inner change; when this has taken place, then, and only then does the world change. - **Martin Buber**
