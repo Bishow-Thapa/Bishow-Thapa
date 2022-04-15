@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Personal Projects
-- 🌱 I’m currently learning ... Spring Boot
-- 👯 I’m looking to collaborate on ... Java Projects
-- 🤔 I’m looking for help with ... Machine Learning
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... React Projects
+- 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
 - 😄 Pronouns: ... He/Him
