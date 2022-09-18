@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm an Introvert by nature but open to communicate 
 
+![buymeacoffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
+
 > *Quotes*: **1**
 >
 >> Life is in the perception of the eyes of the beholder.
