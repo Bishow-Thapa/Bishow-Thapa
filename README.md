@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm an Introvert by nature but open to communicate 
 
 ![https://www.buymeacoffee.com/itsmebishow](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
 
