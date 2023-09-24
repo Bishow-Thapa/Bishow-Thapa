@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
 - 😄 Pronouns: ... He/Him
 
-![Bishow GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishow-Thapa&show_icons=true)
+![Bishow GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishow-Thapa&show_icons=true&bg_color=000000&text_color=9f9f9f)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishow-Thapa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishow-Thapa&bg_color=000000&text_color=9f9f9f)
 
 <!---
 ![https://www.buymeacoffee.com/itsmebishow](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
