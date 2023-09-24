@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 
 ![Bishow GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishow-Thapa&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishow-Thapa)
+
+<!---
 ![https://www.buymeacoffee.com/itsmebishow](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
+-->
 
 > *Quotes*: **1**
 >
