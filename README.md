@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishow-Thapa&bg_color=000000&text_color=9f9f9f)
--->
 
-<!---
 ![https://www.buymeacoffee.com/itsmebishow](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
--->
+
 
 > *Quotes*: **1**
 >
@@ -35,3 +33,5 @@ Here are some ideas to get you started:
 > *Quotes*: **3**
 > 
 >> Everything depends on inner change; when this has taken place, then, and only then does the world change. - **Martin Buber**
+
+-->
