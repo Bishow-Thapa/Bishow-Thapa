@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Personal Projects
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... React Projects
-- 🤔 I’m looking for help with ... React
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
-- 😄 Pronouns: ... He/Him
+- 🔭 I’m currently working on Personal Projects
+- 🌱 I’m currently learning Advanced React
+- 👯 I’m looking to collaborate on awesome projects
+- 🤔 I’m looking for help with Graphql
+- 💬 Ask me about React
+- 📫 How to reach me: [Twitter](https://twitter.com/BishowThapa12) [LinkedIn](https://www.linkedin.com/in/bishowthapa/)
+- 😄 Pronouns: He/Him
 
 ![Bishow GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishow-Thapa&show_icons=true&bg_color=000000&text_color=9f9f9f)
 
